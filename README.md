@@ -6,3 +6,6 @@ Our project is an image caption generation web application that could accurately
 ### notebook69db567614.ipynb: The original code of model
 ### Backend.ipynb: Code for our back end
 ### App.ipynb: Code for our front end and deployment
+### features.pkl: Feature from dataset
+### tokenizer.pkl: Tokenizer used in application
+### best_model.h5: Model with best result after training
